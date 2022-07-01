@@ -1,1 +1,1 @@
-# WebAppTest
+This repo is purely for testing, it doesn't have anything useful
